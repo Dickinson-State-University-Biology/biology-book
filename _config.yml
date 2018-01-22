@@ -22,3 +22,5 @@ version:          10.118
 
 bookviewer:       http://philschatz.com/book-viewer
 
+
+theme: jekyll-theme-minimal
